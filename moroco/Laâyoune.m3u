@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="",Al Aoula Laâyoune (360p)
+#EXTVLCOPT:http-referrer=https://snrtlive.ma/
+https://cdn-globecast.akamaized.net/live/eds/al_aoula_laayoune/hls_snrt/index.m3u8

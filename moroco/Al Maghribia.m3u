@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="AlMaghribia.ma",Al Maghribia (360p)
+#EXTVLCOPT:http-referrer=https://snrtlive.ma/
+https://cdn-globecast.akamaized.net/live/eds/al_maghribia_snrt/hls_snrt/index.m3u8
